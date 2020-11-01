@@ -5,9 +5,12 @@
 </template>
 
 <script>
-import "../home/home.scss";
+// import "../home/home.scss";
 
-export default {};
+export default {
+  name: "Home",
+  components() {},
+};
 </script>
 
 <style>
